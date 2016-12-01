@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1053006895537",
+    "firebase_url": "https://chat-app-realtime.firebaseio.com",
+    "project_id": "chat-app-realtime",
+    "storage_bucket": "chat-app-realtime.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053006895537:android:90e5088fff923640",
+        "android_client_info": {
+          "package_name": "app.real_time_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053006895537-ibqfhknf7krj5e65avmc5hdu4h6sorsr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.real_time_chat",
+            "certificate_hash": "201B7AC89266E722A0EF3108FACEF2FD8904FB5D"
+          }
+        },
+        {
+          "client_id": "1053006895537-41sn7emmqmo8i4vlq5qtpal9ds3u1h2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1fXZvq-YCBxLS1lgeOXGswz9qVQGp-vs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053006895537-41sn7emmqmo8i4vlq5qtpal9ds3u1h2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
